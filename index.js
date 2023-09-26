@@ -5,3 +5,6 @@ const b = "oollo";
 for (let i=0; i<66; i++) {
     console.log(i)
 }
+
+console.log("Hello")
+
